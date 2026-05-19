@@ -2,7 +2,7 @@
 <h3 align="center">A Software Developer from India</h3>
 
 - 🔭 I’m currently working at **Cognizant Technology Solutions as a Programmer Analyst**
-- worked at **BusyFit Pvt. Ltd. as an Intern developer** 
+- Worked at **BusyFit Pvt. Ltd. as an Intern developer** 
 
 - 🌱 I’m currently learning **AWS**
 
