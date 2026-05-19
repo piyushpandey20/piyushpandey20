@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Piyush Pandey</h1>
 <h3 align="center">A Software Developer from India</h3>
 
-- 🔭 I’m currently working at **BusyFit Pvt. Ltd. as an Intern**
+- 🔭 I’m currently working at **Cognizant Technology Solutions as a Programmer Analyst**
+- worked at **BusyFit Pvt. Ltd. as an Intern developer** 
 
 - 🌱 I’m currently learning **AWS**
 
